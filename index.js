@@ -71,7 +71,7 @@ function CreateAppendPopularCards(item){
 // background:gray;`
   
     CardImage.style.cssText=`
-    width:400px;
+    width:380px;
     `
     TextHeading.style.cssText=`
     color: #222;
